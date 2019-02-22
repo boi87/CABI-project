@@ -10,12 +10,12 @@ We made a pest alert app that takes in risk levels of pests in Kenya, Ghana and 
 
 ## :vertical_traffic_light: Setup
 
-1. Option #1: navigate to `https://cabipestalert.herokuapp.com/`.
+1. Option #1: navigate to `https://cabipestalert.herokuapp.com/` (seems to work only on some devices; feel free to give it a go, otherwise please go to option #2).
 2. Option #2: Clone the repo (or download the .zip file) and run ` npm i ` from inside folder. <br/>
 2.1. Run ` npm run dev`. <br/>
 2.2. Go to your browser and type `localhost:1234` to run the app. 
-3. Open a seperate terminal tab. <br/>
-3.1 Run `node src/server.js`.
+3. Open a seperate terminal tab, navigate to the the folder again. <br/>
+3.1 Run the backend server by by typing `node src/server.js`.
 
 ##### Our Tech Stack:
 🧩 Javascript\
